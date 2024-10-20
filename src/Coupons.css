@@ -1,0 +1,76 @@
+body {
+    background-color: #fff9c4; /* Light yellow background for the entire page */
+    font-family: Arial, sans-serif; /* Default font for the page */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Use flexbox to center content */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Full height of the viewport */
+}
+
+h2 {
+    text-align: center; /* Center the title text */
+    font-size: 2.5em; /* Increase font size */
+    color: #ff6f00; /* Warm orange color for title */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
+    margin-bottom: 20px; /* Space below title */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font for title */
+}
+
+.coupon-grid {
+    display: flex; /* Use flexbox for horizontal stacking */
+    flex-wrap: wrap; /* Allow wrapping to the next line */
+    gap: 20px; /* Space between coupons */
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* White background with slight transparency */
+    border-radius: 10px; /* Rounded corners for the grid */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for the grid */
+    overflow-x: auto; /* Allow horizontal scrolling if needed */
+}
+
+.coupon-card {
+    background: linear-gradient(135deg, #fffacd, #ffeb3b); /* Yellow gradient */
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);  /* A bit more shadow for depth */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    font-family: 'Comic Sans MS', cursive, sans-serif;  /* Fun, playful font */
+    color: #5a4e4e; /* Darker text color for better contrast */
+    min-width: 220px; /* Minimum width for each card */
+}
+
+.coupon-card:hover {
+    transform: scale(1.05); /* Slight zoom on hover */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25); /* Deepens shadow on hover */
+}
+
+.coupon-card h3 {
+    margin-bottom: 15px;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.coupon-card p {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.coupon-card button {
+    padding: 12px 20px;
+    background-color: #6a0dad; /* Dark purple button for better contrast */
+    color: white; /* White text for visibility */
+    border: none;
+    border-radius: 20px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Added transition for transform */
+}
+
+.coupon-card button:hover {
+    background-color: #5c0090; /* Darker purple on hover */
+    transform: translateY(-2px); /* Slight upward motion on hover */
+}
