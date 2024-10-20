@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DanielY2711/coupon_site_react_frontend/static/css/main.f8476ee1.css",
-    "main.js": "/DanielY2711/coupon_site_react_frontend/static/js/main.deae76cc.js",
-    "static/js/453.e1b1bd7f.chunk.js": "/DanielY2711/coupon_site_react_frontend/static/js/453.e1b1bd7f.chunk.js",
-    "index.html": "/DanielY2711/coupon_site_react_frontend/index.html",
-    "main.f8476ee1.css.map": "/DanielY2711/coupon_site_react_frontend/static/css/main.f8476ee1.css.map",
-    "main.deae76cc.js.map": "/DanielY2711/coupon_site_react_frontend/static/js/main.deae76cc.js.map",
-    "453.e1b1bd7f.chunk.js.map": "/DanielY2711/coupon_site_react_frontend/static/js/453.e1b1bd7f.chunk.js.map"
+    "main.css": "/coupon_site_react_frontend/static/css/main.f8476ee1.css",
+    "main.js": "/coupon_site_react_frontend/static/js/main.9c917e48.js",
+    "static/js/453.e1b1bd7f.chunk.js": "/coupon_site_react_frontend/static/js/453.e1b1bd7f.chunk.js",
+    "index.html": "/coupon_site_react_frontend/index.html",
+    "main.f8476ee1.css.map": "/coupon_site_react_frontend/static/css/main.f8476ee1.css.map",
+    "main.9c917e48.js.map": "/coupon_site_react_frontend/static/js/main.9c917e48.js.map",
+    "453.e1b1bd7f.chunk.js.map": "/coupon_site_react_frontend/static/js/453.e1b1bd7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8476ee1.css",
-    "static/js/main.deae76cc.js"
+    "static/js/main.9c917e48.js"
   ]
 }
