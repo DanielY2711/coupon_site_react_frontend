@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DanielY2711/coupon_site_react_frontend/static/css/main.f8476ee1.css",
-    "main.js": "/DanielY2711/coupon_site_react_frontend/static/js/main.7e013b5a.js",
+    "main.js": "/DanielY2711/coupon_site_react_frontend/static/js/main.ddb2ab85.js",
     "static/js/453.e1b1bd7f.chunk.js": "/DanielY2711/coupon_site_react_frontend/static/js/453.e1b1bd7f.chunk.js",
     "index.html": "/DanielY2711/coupon_site_react_frontend/index.html",
     "main.f8476ee1.css.map": "/DanielY2711/coupon_site_react_frontend/static/css/main.f8476ee1.css.map",
-    "main.7e013b5a.js.map": "/DanielY2711/coupon_site_react_frontend/static/js/main.7e013b5a.js.map",
+    "main.ddb2ab85.js.map": "/DanielY2711/coupon_site_react_frontend/static/js/main.ddb2ab85.js.map",
     "453.e1b1bd7f.chunk.js.map": "/DanielY2711/coupon_site_react_frontend/static/js/453.e1b1bd7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8476ee1.css",
-    "static/js/main.7e013b5a.js"
+    "static/js/main.ddb2ab85.js"
   ]
 }
